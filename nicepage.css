@@ -34107,9 +34107,10 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
-  letter-spacing: 9px;
+  letter-spacing: 6px;
   font-size: 2.25rem;
   animation-duration: 1000ms;
+  font-family: "Courier New", monospace;
   margin: -40px 680px 19px 0;
 }
 @media (max-width: 1199px) {
@@ -34150,9 +34151,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    font-size: 1.125rem;
-    margin-top: -25px;
+    font-size: 1.5rem;
+    margin-top: -29px;
     margin-right: 24px;
+    margin-bottom: 24px;
   }
 }
 .u-footer {
