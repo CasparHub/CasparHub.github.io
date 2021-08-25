@@ -1,3 +1,7 @@
+.u-section-1 {
+  background-image: none;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 100vh;
 }
@@ -226,7 +230,11 @@
 
 @media (max-width: 991px) {
   .u-section-2 {
-    min-height: 1197px;
+    min-height: 417px;
+  }
+
+  .u-section-2 .u-blog-1 {
+    margin-bottom: 1px;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -237,7 +245,7 @@
 
 @media (max-width: 767px) {
   .u-section-2 {
-    min-height: 964px;
+    min-height: 693px;
   }
 
   .u-section-2 .u-repeater-1 {

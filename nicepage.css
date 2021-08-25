@@ -34113,13 +34113,13 @@ a.u-link.u-text-hover-grey-90:hover {
   animation-duration: 1000ms;
   box-shadow: 3px 3px 0px 0 rgba(0,0,0,0);
   font-family: "Courier New", monospace;
+  font-weight: normal;
   margin: -40px 680px 19px 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
     margin-top: -40px;
     margin-right: 480px;
-    font-weight: normal;
   }
 }
 @media (max-width: 991px) {
