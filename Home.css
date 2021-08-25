@@ -376,17 +376,22 @@
   white-space: nowrap;
   height: 35px;
   min-height: 16px;
-  width: 171px;
-  min-width: 114px;
+  width: 239px;
+  min-width: 163px;
   animation-duration: 2750ms;
   margin: -35px 0 46px auto;
 }
 
-.u-section-3 .u-icon-2 {
+.u-section-3 .u-icon-1 {
   height: 100%;
+  color: rgb(44, 204, 196) !important;
 }
 
 .u-section-3 .u-icon-3 {
+  height: 100%;
+}
+
+.u-section-3 .u-icon-4 {
   height: 100%;
 }
 
