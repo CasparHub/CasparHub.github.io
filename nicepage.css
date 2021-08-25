@@ -34087,11 +34087,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 74px;
+  min-height: 52px;
 }
 
 .u-header .u-menu-1 {
-  margin: 21px 0 0 auto;
+  margin: 8px 0 8px auto;
 }
 
 .u-header .u-nav-1 {
@@ -34110,52 +34110,23 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 20px auto 0;
 }
 
-.u-header .u-text-1 {
-  animation-duration: 1000ms;
-  box-shadow: 3px 3px 0px 0 rgba(0,0,0,0);
-  font-family: "Courier New", monospace;
-  font-size: 2.25rem;
-  letter-spacing: 2px;
-  background-image: none;
-  font-weight: normal;
-  margin: -40px 680px 18px 0;
-}
-@media (max-width: 1199px) {
-  .u-header .u-text-1 {
-    margin-top: -40px;
-    margin-right: 480px;
-  }
-}
 @media (max-width: 991px) {
   .u-header .u-menu-1 {
     margin-top: 22px;
-  }
-
-  .u-header .u-text-1 {
-    width: auto;
-    margin-top: -37px;
-    margin-right: 44px;
+    margin-bottom: 20px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-menu-1 {
     margin-top: 22px;
-  }
-
-  .u-header .u-text-1 {
-    margin-top: -37px;
-    margin-right: 80px;
+    margin-bottom: 60px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: 21px;
-  }
-
-  .u-header .u-text-1 {
-    margin-top: -29px;
-    margin-right: 24px;
+    margin-bottom: 60px;
   }
 }
 .u-footer {
@@ -34168,50 +34139,37 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-social-icons-1 {
   white-space: nowrap;
-  height: 28px;
+  height: 35px;
   min-height: 16px;
-  width: 150px;
-  min-width: 114px;
-  margin: 46px auto;
+  width: 239px;
+  min-width: 163px;
+  animation-duration: 2750ms;
+  margin: 43px auto;
 }
 
 .u-footer .u-icon-1 {
-  color: rgb(255, 255, 255) !important;
-}
-
-.u-footer .u-icon-2 {
   height: 100%;
-  color: rgb(255, 255, 255) !important;
 }
 
 .u-footer .u-icon-3 {
   height: 100%;
-  color: rgb(255, 255, 255) !important;
+}
+
+.u-footer .u-icon-4 {
+  height: 100%;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
+  .u-footer .u-social-icons-1 {
+    width: 239px;
   }
 
-  .u-footer .u-social-icons-1 {
-    width: 150px;
+  .u-footer .u-icon-1 {
+    color: rgb(44, 204, 196) !important;
   }
 }
-@media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 76px;
-  }
-}
-@media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
-  }
-}
-@media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 36px;
-  }
-}
+
+
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
