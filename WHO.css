@@ -139,7 +139,6 @@
   height: 30px;
   width: 30px;
   background-image: none;
-  color: rgb(255, 255, 255);
 }
 
 .u-section-2 .u-accordion-pane-1 {
@@ -166,7 +165,6 @@
   height: 30px;
   width: 30px;
   background-image: none;
-  color: rgb(255, 255, 255);
 }
 
 .u-section-2 .u-accordion-pane-2 {
@@ -193,7 +191,6 @@
   height: 30px;
   width: 30px;
   background-image: none;
-  color: rgb(255, 255, 255);
 }
 
 .u-section-2 .u-accordion-pane-3 {
@@ -220,7 +217,6 @@
   height: 30px;
   width: 30px;
   background-image: none;
-  color: rgb(255, 255, 255);
 }
 
 .u-section-2 .u-accordion-pane-4 {
@@ -260,7 +256,6 @@
   height: 30px;
   width: 30px;
   background-image: none;
-  color: rgb(255, 255, 255);
 }
 
 .u-section-2 .u-accordion-pane-5 {
@@ -278,6 +273,26 @@
 
   .u-section-2 .u-accordion-1 {
     width: 940px;
+  }
+
+  .u-section-2 .u-icon-1 {
+    color: rgb(255, 255, 255);
+  }
+
+  .u-section-2 .u-icon-2 {
+    color: rgb(255, 255, 255);
+  }
+
+  .u-section-2 .u-icon-3 {
+    color: rgb(255, 255, 255);
+  }
+
+  .u-section-2 .u-icon-4 {
+    color: rgb(255, 255, 255);
+  }
+
+  .u-section-2 .u-icon-5 {
+    color: rgb(255, 255, 255);
   }
 }
 
